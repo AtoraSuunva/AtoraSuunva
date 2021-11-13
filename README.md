@@ -1,16 +1,22 @@
-### Hi there 👋
+Heya, I'm Atora. Mainly a fullstack Node.js developer, I also do frontend (react/vanilla), and mobile (react-native) work occasionally.
 
-<!--
-**AtoraSuunva/AtoraSuunva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+He/Him, They/Them, Adult.
 
-Here are some ideas to get you started:
+Not currently looking for work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+|💙| Typescript |
+| - | - |
+|❤️| Javscript, SQL, C# |
+|😃| Java, Python |
+|😐| PHP |
+|😕| The NPM Ecosystem |
+
+HTML/CSS depend on how many hours I've been trying to align boxes for.
+
+---
+
+The best way to reach me about my code is by opening an issue on the repo.
+
+For other things: github@giraffeduck.com
