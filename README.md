@@ -8,7 +8,7 @@ Not currently looking for work.
 
 |💙| Typescript |
 | - | - |
-|❤️| Javscript, SQL, C# |
+|❤️| Javascript, SQL, C# |
 |😃| Java, Python |
 |😐| PHP |
 |😕| The NPM Ecosystem |
