@@ -19,7 +19,7 @@ HTML/CSS depend on how many hours I've been trying to align boxes for.
 
 The best way to reach me about my code is by opening an issue on the repo.
 
-For other things: github@giraffeduck.com
+For other things: atora@giraffeduck.com
 
 ---
 
