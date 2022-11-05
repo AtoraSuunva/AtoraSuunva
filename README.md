@@ -1,12 +1,14 @@
-Heya, I'm Atora. Mainly a fullstack Node.js developer, I also do frontend (react/vanilla), and mobile (react-native) work occasionally.
+Heya, I'm Atora. I love programming. I hate programming. I can talk about ECMAScript for hours. Will fight the borrow checker for hours.
 
-He/Him, They/Them, Adult.
+They/Them  
+He/Him  
+Adult
 
 Not currently looking for work.
 
 ---
 
-|💙| Typescript |
+|💙| Typescript, Rust |
 | - | - |
 |❤️| Javascript, SQL, C# |
 |😃| Java, Python |
@@ -23,4 +25,4 @@ For other things: atora@giraffeduck.com
 
 ---
 
-[Profile Picture by @siggymcc](https://twitter.com/siggymcc/status/1428758737712336898)
+[Profile Picture by @siggymcc](https://twitter.com/siggymcc/status/1566071435461738496)
