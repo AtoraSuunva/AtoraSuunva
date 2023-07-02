@@ -1,4 +1,4 @@
-Heya, I'm Atora. I love programming. I hate programming. I can talk about ECMAScript for hours. Will fight the borrow checker for hours.
+Heya, I'm Atora. I write code for fun and/or money. FOSS and dice enthusiast.
 
 They/Them  
 He/Him  
@@ -8,12 +8,16 @@ Not currently looking for work.
 
 ---
 
-|💙| Typescript, Rust |
+I currently know (well):
+
+|💙| Typescript, Rust, Docker |
 | - | - |
 |❤️| Javascript, SQL, C# |
 |😃| Java, Python |
 |😐| PHP |
-|😕| The NPM Ecosystem |
+|🥺| The NPM Ecosystem |
+
+And others I can't be bothered to list here.
 
 HTML/CSS depend on how many hours I've been trying to align boxes for.
 
