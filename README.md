@@ -6,8 +6,6 @@ They/Them
 He/Him  
 Adult
 
-Not currently looking for work.
-
 ---
 
 I currently know (well):
